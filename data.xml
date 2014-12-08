@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resume>
+	<website>
+		<favicon>http://www.bangsatya.com/favicon.ico</favicon>
+	</website>
+	<datadiri>
+		<nama>Aryya Dwisatya Widigdha</nama>
+		<alamat>Jalan Kebon Kembang 1, Tamansari, Bandung Selatan, 40116, Bandung</alamat>
+		<nomorhp>085721169983</nomorhp>
+		<email>aryya@arc.itb.ac.id</email>
+	</datadiri>
+	<experiences>
+		<experience>
+			<nama>Network Administrator</nama>
+			<tempat>Fakultas Teknik Sipil dan Lingkungan</tempat>
+			<tempat>Teknik Lingkungan</tempat>
+			<tempat>Bandung, Indonesia</tempat>
+			<periode>2014-Now</periode>
+			<keterangan>Responsible for maintaining 300+ users</keterangan>
+    		<keterangan>Responsible for maintaining DHCP servers for 300+ users</keterangan>
+   	 		<keterangan>Responsible to make sure network doing great for lectures, administration office, and students</keterangan>
+		</experience>
+		<experience>
+			<nama>Network Administrator</nama>
+			<tempat>Sekolah Teknik Elektro dan Informatika</tempat>
+			<tempat>Teknik Informatika</tempat>
+			<tempat>Bandung, Indonesia</tempat>
+			<periode>2014-Now</periode>
+		    <keterangan>Responsible for providing great internet connection to 750+ users</keterangan>
+		    <keterangan>Responsible for maintaining Router and DHCP Server</keterangan>
+		    <keterangan>Responsible for maintaining Wireless-Fidelity</keterangan>
+		    <keterangan>Responsible for maintaining Proxy Server</keterangan>
+		</experience>
+		<experience>
+			<nama>Founder and Project Manager</nama>
+			<tempat>Guerilla Team</tempat>
+			<periode>2014-Now</periode>
+		    <keterangan>Responsible for manage human resource in the project</keterangan>
+		    <keterangan>Responsible for establish contract with client</keterangan>
+		    <keterangan>Responsible for giving extraordinary quality to client</keterangan>
+		</experience>
+	</experiences>
+	<background>
+		<study>
+			<nama>Informatics Engineering</nama>
+			<tempat>Institut Teknologi Bandung</tempat>
+			<tempat>Bandung, Indonesia</tempat>
+			<periode>2012-now</periode>
+		</study>
+	</background>
+	<skills>
+	    <skill>Intermediate at several programming languages (0.8 PHP, 0.6 Visual Basic 6, 0.7 C, 0.75 CPP, 0.7 C#, 0.75 Java)</skill>
+	    <skill>Beginner at some programming languages (Python, Perl)</skill>
+	    <skill>65% on Network Design</skill>
+	    <skill>75% on Proxy and DHCP server installation and management</skill>
+	    <skill>80% on Mail and Web server installation and management</skill>
+	    <skill>80% on Web Application Penetration Testing</skill>
+	    <skill>85% on Wi-Fi installation using TP-Link, D-Link, and Ruckus</skill>
+	</skills>
+	<books>
+		<book>
+			<judul>7 Hari Menjadi Jawara di Internet</judul>
+			<ISBN> 978-602-8545-79-2</ISBN>
+			<penerbit> Gavamedia</penerbit>
+			<tahun> 2012</tahun>
+			<sinopsis>Prepare you to be one of them. This book shows you everything that needed to do an action as them and prevent them to take over your system. If you are a Network Administrator then this book should be there in your reading list. </sinopsis>
+		</book>
+		<book>
+			<judul>Carding for Beginner</judul>
+			<ISBN> 978-602-0204-82-6</ISBN>
+			<penerbit> Elexmedia Komputindo</penerbit>
+			<tahun>2012</tahun>
+			<sinopsis> If you think that your money is safe, then read this book. It will show you everything you never thought.This book will show you how easy your money be stolen and how easy to stole the others money. </sinopsis>
+		</book>
+	</books>
+</resume>
