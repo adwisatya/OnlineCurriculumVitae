@@ -9,12 +9,12 @@ OnlineCurriculumVitae
 		Produk ini boleh digunakan dengan bebas tanpa dipungut biaya.
 	</li>
 	<li>
-		Pengguna dilarang menghilangkan credit pada file index.php
+		Pengguna dilarang menghilangkan credit pada file index.php. Melanggar: Awas mandul!
 	</li>
 	<li>
 		Pengguna diperkenankan melakukan versioning.
 	</li>
 	<li>
-		Kritik dan saran diperkenankan dengan bahasa yang sopan dan disampaikan ke aryya@arc.itb.ac.id
+		Kritik dan saran diperkenankan dengan bahasa yang sopan dan disampaikan ke <a href="mailto:aryya@arc.itb.ac.id">aryya@arc.itb.ac.id</a>
 	</li>
 </ol>
