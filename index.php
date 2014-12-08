@@ -138,7 +138,7 @@
 			}
 		}
 		?>
-		<div class="row">
+		<div class="row" id="credits">
 			<h5 style="background-color:black;color:white;text-align:center;">
 				Copyright <a href="https://github.com/adwisatya/">@adwisatya</a><br/>
 				<i>free to use & be distributed</i>
